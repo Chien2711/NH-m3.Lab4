@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+papermill
+jupyter
+pyarrow
+fastparquet
+openpyxl
+ipykernel
+ucimlrepo
