@@ -1,0 +1,11 @@
+# Bỏ qua các file rác của Python
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+
+# Bỏ qua dữ liệu gốc (nếu file quá nặng > 100MB, còn bài này nhẹ thì ko cần dòng dưới)
+# data/raw/*.zip
+
+# Bỏ qua file cấu hình môi trường ảo
+.env
+bejing_env/
